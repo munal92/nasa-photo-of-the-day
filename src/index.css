@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.nasaContent img{
+  padding:30px;
+  height:50%;
+  width:50%;
+}
+
+
+.pExp{
+  padding: 30px;
+  
+}
